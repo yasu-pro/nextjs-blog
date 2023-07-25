@@ -28,8 +28,7 @@ export default function Home({allPostsData}) {
           LInkedIn is <a href='www.linkedin.com/in/yasuhiro-fujimoto-7b7288213'>this</a>.
         </p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://blog-yasu.com/">My Blog</a>.)
+          (This is a my website - <a href="https://blog-yasu.com/">here</a> is the website where I output what I have learned.)
         </p>
       </section>
 
